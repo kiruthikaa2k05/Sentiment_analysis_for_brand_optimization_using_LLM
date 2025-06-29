@@ -1,0 +1,17 @@
+Install Required Libraries:
+pip install -r requirements.txt
+
+Run the Project:
+python sentiment_analysis.py
+
+transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+streamlit
+nltk
+
+
